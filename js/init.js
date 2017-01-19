@@ -1,9 +1,9 @@
 var lang = 'es';
 
 function init(){
-  let params = new URLSearchParams(location.search.slice(1));
-  let redirect = '';
-  let route = params.get('r');
+  var params = new URLSearchParams(location.search.slice(1));
+  var redirect = '';
+  var route = params.get('r');
   lang = params.get('lang');
   if ( route != null) {
     if (lang == 'es') {
@@ -13,7 +13,7 @@ function init(){
     };
     window.location.replace(redirect)
   } else if (window.location.pathname == '/') {
-    let navigatorLang = (navigator.languages[0] || navigator.language || navigator.browserLanguage).split('-')[0];
+    var navigatorLang = (navigator.languages[0] || navigator.language || navigator.browserLanguage).split('-')[0];
     lang = navigatorLang;
     if ( ['en', 'eu', 'fr'].indexOf(navigatorLang) > -1 ) {
       window.location.replace('/' + navigatorLang);

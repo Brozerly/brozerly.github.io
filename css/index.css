@@ -166,3 +166,12 @@
 .index-spacer {
 	height: 3rem;
 }
+
+
+.index-video-title {
+	padding: 0 10px;
+}
+
+.index-web-app-link-icon {
+	font-size: 30px;
+}
