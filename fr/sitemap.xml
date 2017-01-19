@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+           
+  <url>
+    <loc>http://0.0.0.0:4000/en/faq</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/en/index</loc>
+    <priority>1.0</priority>
+  </url>
+          
+  <url>
+    <loc>http://0.0.0.0:4000/en/support</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/en/tos</loc>
+    <priority>1.0</priority>
+  </url>
+   
+
+
+
+           
+  <url>
+    <loc>http://0.0.0.0:4000/es/faq</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/es/index</loc>
+    <priority>1.0</priority>
+  </url>
+          
+  <url>
+    <loc>http://0.0.0.0:4000/es/support</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/es/tos</loc>
+    <priority>1.0</priority>
+  </url>
+   
+
+
+
+           
+  <url>
+    <loc>http://0.0.0.0:4000/eu/faq</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/eu/index</loc>
+    <priority>1.0</priority>
+  </url>
+          
+  <url>
+    <loc>http://0.0.0.0:4000/eu/support</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/eu/tos</loc>
+    <priority>1.0</priority>
+  </url>
+   
+
+
+
+           
+  <url>
+    <loc>http://0.0.0.0:4000/fr/faq</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/fr/index</loc>
+    <priority>1.0</priority>
+  </url>
+          
+  <url>
+    <loc>http://0.0.0.0:4000/fr/support</loc>
+    <priority>1.0</priority>
+  </url>
+      
+  <url>
+    <loc>http://0.0.0.0:4000/fr/tos</loc>
+    <priority>1.0</priority>
+  </url>
+   
+
+
+</urlset>

@@ -1,0 +1,35 @@
+.cookies-compilation-box {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: rgba(0,0,0,0.75);
+	color: #fff;
+	z-index: 9999;
+}
+
+.cookies-compilation-button {
+	right: 0px;
+  top: 10px;
+  position: absolute;
+}
+
+.cookies-compilation-close {
+	right: 15px;
+	color: #fff;
+}
+
+.cookies-compilation-text {
+	padding: 30px 65px 30px 30px;
+	color: #fff;
+	font-family: 'Roboto';
+	font-weight: 200;
+}
+
+.cookies-compilation-text a {
+	text-decoration: underline;
+	color: #fff !important;
+}
+
+.cookies-hide-message {
+  display: none !important;
+}

@@ -1,0 +1,12 @@
+User-agent: Twitterbot
+Disallow: /public/img/
+Disallow: /logos/
+Disallow: /lang/
+
+User-agent: *
+Disallow: /public/img/
+Disallow: /logos/
+Disallow: /lang/
+Disallow:
+
+Sitemap: http://0.0.0.0:4000/sitemap.xml
