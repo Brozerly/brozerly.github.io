@@ -9,4 +9,4 @@ Disallow: /logos/
 Disallow: /lang/
 Disallow:
 
-Sitemap: http://0.0.0.0:4000/sitemap.xml
+Sitemap: http://brozerly.github.io/sitemap.xml

@@ -4,22 +4,22 @@
 
            
   <url>
-    <loc>http://0.0.0.0:4000/en/faq</loc>
+    <loc>http://brozerly.github.io/en/faq</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/en/index</loc>
+    <loc>http://brozerly.github.io/en/index</loc>
     <priority>1.0</priority>
   </url>
           
   <url>
-    <loc>http://0.0.0.0:4000/en/support</loc>
+    <loc>http://brozerly.github.io/en/support</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/en/tos</loc>
+    <loc>http://brozerly.github.io/en/tos</loc>
     <priority>1.0</priority>
   </url>
    
@@ -28,22 +28,22 @@
 
            
   <url>
-    <loc>http://0.0.0.0:4000/es/faq</loc>
+    <loc>http://brozerly.github.io/es/faq</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/es/index</loc>
+    <loc>http://brozerly.github.io/es/index</loc>
     <priority>1.0</priority>
   </url>
           
   <url>
-    <loc>http://0.0.0.0:4000/es/support</loc>
+    <loc>http://brozerly.github.io/es/support</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/es/tos</loc>
+    <loc>http://brozerly.github.io/es/tos</loc>
     <priority>1.0</priority>
   </url>
    
@@ -52,22 +52,22 @@
 
            
   <url>
-    <loc>http://0.0.0.0:4000/eu/faq</loc>
+    <loc>http://brozerly.github.io/eu/faq</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/eu/index</loc>
+    <loc>http://brozerly.github.io/eu/index</loc>
     <priority>1.0</priority>
   </url>
           
   <url>
-    <loc>http://0.0.0.0:4000/eu/support</loc>
+    <loc>http://brozerly.github.io/eu/support</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/eu/tos</loc>
+    <loc>http://brozerly.github.io/eu/tos</loc>
     <priority>1.0</priority>
   </url>
    
@@ -76,22 +76,22 @@
 
            
   <url>
-    <loc>http://0.0.0.0:4000/fr/faq</loc>
+    <loc>http://brozerly.github.io/fr/faq</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/fr/index</loc>
+    <loc>http://brozerly.github.io/fr/index</loc>
     <priority>1.0</priority>
   </url>
           
   <url>
-    <loc>http://0.0.0.0:4000/fr/support</loc>
+    <loc>http://brozerly.github.io/fr/support</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://0.0.0.0:4000/fr/tos</loc>
+    <loc>http://brozerly.github.io/fr/tos</loc>
     <priority>1.0</priority>
   </url>
    
