@@ -4,22 +4,22 @@
 
            
   <url>
-    <loc>http://brozerly.github.io/en/faq</loc>
+    <loc>https://www.brozerly.com/faq</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/en/index</loc>
+    <loc>https://www.brozerly.com/index</loc>
     <priority>1.0</priority>
   </url>
           
   <url>
-    <loc>http://brozerly.github.io/en/support</loc>
+    <loc>https://www.brozerly.com/support</loc>
     <priority>1.0</priority>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/en/tos</loc>
+    <loc>https://www.brozerly.com/tos</loc>
     <priority>1.0</priority>
   </url>
    
@@ -28,23 +28,27 @@
 
            
   <url>
-    <loc>http://brozerly.github.io/es/faq</loc>
+    <loc>https://www.brozerly.com/fr/faq</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/es/index</loc>
+    <loc>https://www.brozerly.com/fr/index</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
           
   <url>
-    <loc>http://brozerly.github.io/es/support</loc>
+    <loc>https://www.brozerly.com/fr/support</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/es/tos</loc>
+    <loc>https://www.brozerly.com/fr/tos</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
    
 
@@ -52,23 +56,27 @@
 
            
   <url>
-    <loc>http://brozerly.github.io/eu/faq</loc>
+    <loc>https://www.brozerly.com/eu/faq</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/eu/index</loc>
+    <loc>https://www.brozerly.com/eu/index</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
           
   <url>
-    <loc>http://brozerly.github.io/eu/support</loc>
+    <loc>https://www.brozerly.com/eu/support</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/eu/tos</loc>
+    <loc>https://www.brozerly.com/eu/tos</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
    
 
@@ -76,23 +84,27 @@
 
            
   <url>
-    <loc>http://brozerly.github.io/fr/faq</loc>
+    <loc>https://www.brozerly.com/en/faq</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/fr/index</loc>
+    <loc>https://www.brozerly.com/en/index</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
           
   <url>
-    <loc>http://brozerly.github.io/fr/support</loc>
+    <loc>https://www.brozerly.com/en/support</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
       
   <url>
-    <loc>http://brozerly.github.io/fr/tos</loc>
+    <loc>https://www.brozerly.com/en/tos</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
    
 
