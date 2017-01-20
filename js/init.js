@@ -9,7 +9,11 @@ function init(){
     if (lang == 'es') {
       redirect = '/'+ route +  window.location.hash;
     } else {
-      redirect = '/'+ lang + '/' + route +  window.location.hash;
+      if ( lang != null ) {
+        redirect = '/'+ lang + '/' + route +  window.location.hash;
+      } else {
+        redirect = '/' + route +  window.location.hash;
+      }
     };
     window.location.replace(redirect)
   } else if (window.location.pathname == '/') {
