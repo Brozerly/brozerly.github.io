@@ -191,7 +191,33 @@
   <h4 class="scrollreveal-block"><i class='index-video-title'>Friendship is the ability to count on each other when you need it the most</i></h4>
   <div class="landing-video scrollreveal-video">
     <div class="video-container">
-      <iframe id="video" width="800" height="480" src="https://www.youtube.com/embed/Lv9yZHw4IxQ?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+      <div id="video"></div>
+      <script async src="https://www.youtube.com/iframe_api"></script>
+      <script>
+       function onYouTubeIframeAPIReady() {
+        var player;
+        player = new YT.Player('video', {
+          videoId: 'Lv9yZHw4IxQ', // YouTube Video ID
+          width: 800,               // Player width (in px)
+          height: 480,              // Player height (in px)
+          playerVars: {
+            controls: 1,        // Show pause/play buttons in player
+            showinfo: 0,        // Hide the video title
+            modestbranding: 0,  // Hide the Youtube Logo
+            loop: 0,            // Run the video in a loop
+            fs: 1,              // Hide the full screen button
+            cc_load_policy: 0, // Hide closed captions
+            iv_load_policy: 3,  // Hide the Video Annotations
+            autohide: 0         // Hide video controls when playing
+          },
+          events: {
+            onReady: function(e) {
+              e.target.mute();
+            }
+          }
+        });
+       }
+      </script>
     </div>
   </div>
 </div>
