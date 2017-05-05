@@ -18,7 +18,7 @@ $( document ).ready(function() {
       selector: '.landing-video',
       offset: 50,
       callback: function() {
-        $("#video")[0].src += "&autoplay=1";
+        $("#video")[0].src += '&autoplay=1';
       }
     },
   ];
