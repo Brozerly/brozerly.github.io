@@ -1,177 +1,187 @@
 .landing_badges {
-	display: inline-block;
+  display: inline-block;
 }
 
 .landing_small-badge {
-	max-width: 200px;
+  max-width: 200px;
 }
 
 .landing_apple-small-badge {
-	width: calc(200px - 24px);
-	margin: 12px;
+  width: calc(200px - 40px);
+  margin: 12px;
 }
 
 .landing_big-badge {
-	max-width: 250px;
+  max-width: 250px;
 }
 
 .landing_apple-big-badge {
-	width: calc(250px - 31px);
-	margin: 16px;
+  width: calc(250px - 55px);
+  margin: 16px;
 }
 
 .landing-screenshoot {
-	max-width: 35vw;
-	max-height: 350px;
+  max-width: 35vw;
+  max-height: 350px;
 }
 
 .landing-block {
-	margin: 0 auto;
-	text-align: center;
-	width: 100%;
-	padding: 30px 0;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  padding: 30px 0;
 }
 
 @media screen and (min-width: 960px) {
-	.landing-block {
-		padding: 30px calc(50% - 480px);
-		width: 100%;
-	}
+  .landing-block {
+    padding: 30px calc(50% - 480px);
+    width: 100%;
+  }
 }
 
 .landing-line {
-	border-bottom: 1px #1495ee solid;
+  border-bottom: 1px #1495ee solid;
 }
 
 .langing-image {
-	min-width: 150px;
+  min-width: 150px;
 }
 
 .landing-background-grey {
-	background: #dbe4eb;
-	background: -webkit-linear-gradient(to left, #8e9eab, #eef2f3);
-	background: linear-gradient(to left, #dae3eb, #eef2f3);
-	background-color: #fff;
+  background: #dbe4eb;
+  background: -webkit-linear-gradient(to left, #8e9eab, #eef2f3);
+  background: linear-gradient(to left, #dae3eb, #eef2f3);
+  background-color: #fff;
 }
 
 .landing-background-gradient {
-	background: #70e1f5;
-	background: -webkit-linear-gradient(to left, #70e1f5, #ffd194);
-	background: linear-gradient(to left, #70e1f5, #ffd194);
+  background: #70e1f5;
+  background: -webkit-linear-gradient(to left, #70e1f5, #ffd194);
+  background: linear-gradient(to left, #70e1f5, #ffd194);
 }
 
 #landing-layout {
-	padding-top: 50px;
-	width: 960px;
-	max-width: calc(100% - 30px);
-	text-align: center;
+  padding-top: 50px;
+  width: 960px;
+  max-width: calc(100% - 30px);
+  text-align: center;
 }
 
 .landing-subtitle {
-	line-height: 35px;
+  line-height: 35px;
+}
+
+.landing-pub {
+  color: #ff7f12;
+  background-color: rgba(255,255,255,0.5);
+  border: 3px dotted white;
+  border-radius: 15px;
+  padding: 15px;
+  font-family: 'Fredoka One', cursive;
+  font-size: 35px;
 }
 
 .landing-logo-sponsor {
-	max-width: 175px;
-	max-height: 200px;
-	padding: 20px;
+  max-width: 175px;
+  max-height: 200px;
+  padding: 20px;
 }
 
 .landing-logo-stripe {
-	width: 200px;
+  width: 200px;
 }
 
 .landing-social-buttons {
-	display: inline-block;
-	margin: 0 auto;
+  display: inline-block;
+  margin: 0 auto;
 }
 
 .landing-social-buttons .social-button {
-	display: inline-block;
-	vertical-align: bottom;
-	margin: 10px;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: bottom;
 }
 
 .social-button-text {
-	display: block;
+  display: block;
 }
 
 .social-icon {
-	color: #fff;
-	margin: auto;
-	font-size: 24px;
-	height: 50px;
-	margin-top: calc(50% - 12px);
+  color: #fff;
+  margin: auto;
+  font-size: 24px;
+  height: 50px;
+  margin-top: calc(50% - 12px);
 }
 
 .social-facebook {
-	fill: #fff;
-	padding: 0;
-	width: 24px;
-	font-size: 24px;
+  fill: #fff;
+  padding: 0;
+  width: 24px;
+  font-size: 24px;
 }
 
 #twitter {
-	background-color: #1da1f2;
+  background-color: #1da1f2;
 }
 
 #facebook {
-	background-color: #3b5998;
+  background-color: #3b5998;
 }
 
 #google {
-	background-color: #d34836;
+  background-color: #d34836;
 }
 
 #linkedin {
-	background-color: #0077b5;
+  background-color: #0077b5;
 }
 
 .landing-video {
-	-webkit-box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.2);
-	box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.2);
-	width: 85%;
-	max-width: 700px;
-	margin: 0 auto;
+  -webkit-box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.2);
+  box-shadow: 2px 2px 5px 0 rgba(0,0,0,0.2);
+  width: 85%;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 #landing-launch-button-small {
-	background-color: rgba(0,0,0,0.88);
-	text-transform: none;
-	height: 52px;
-	border-radius: 5px;
-	font-size: 20px;
-	margin: 13px;
-	padding: 8px 13px;
+  background-color: rgba(0,0,0,0.88);
+  text-transform: none;
+  height: 52px;
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 13px;
+  padding: 8px 13px;
 }
 
 #landing-launch-button-big {
-	background-color: rgba(0,0,0,0.88);
-	text-transform: none;
-	height: 52px;
-	border-radius: 5px;
-	font-size: 20px;
-	margin: 13px;
-	padding: 8px 13px;
+  background-color: rgba(0,0,0,0.88);
+  text-transform: none;
+  height: 52px;
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 13px;
+  padding: 8px 13px;
 }
 
 #landing-launch-icon {
-	width: 25px;
-	height: 25px;
-	padding: 0;
-	margin-right: 10px;
-	vertical-align: text-bottom;
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  margin-right: 10px;
+  vertical-align: text-bottom;
 }
 
 .index-spacer {
-	height: 3rem;
+  height: 3rem;
 }
 
 
 .index-video-title {
-	padding: 0 10px;
+  padding: 0 10px;
 }
 
 .index-web-app-link-icon {
-	font-size: 30px;
+  font-size: 30px;
 }
